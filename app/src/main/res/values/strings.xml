@@ -1,0 +1,21 @@
+<resources>
+    <string name="menu_search"></string>
+    <string name="app_name">My Crush</string>
+    <string name="search_result"></string>
+
+    <string-array name="entries">
+        <item>Gabriel Jesusu</item>
+        <item>Garix Shaka</item>
+        <item>Lukas Podolski</item>
+        <item>Anddre Laccazete</item>
+        <item>Mesut Ozil</item>
+        <item>Jack Wilshare</item>
+        <item>Mktrihyan</item>
+        <item>Callin Chambers</item>
+        <item>Ashley Young</item>
+        <item>Arsene wenger</item>
+        <item>David Kim</item>
+        <item>Oliver Blue</item>
+        <item>John Doe/</item>
+    </string-array>
+</resources>
